@@ -25,7 +25,7 @@ test.py               # Example socket test client
 ## ⚡ Setup & Run
 ### 1️⃣ Clone the repo
 ```bash
-git clone https://github.com/<your-username>/Realtime-socket-chat-app.git
+git clone https://github.com/AhmedFathyMohamed10/Realtime-socket-chat-app.git
 cd Realtime-socket-chat-app
 ```
 
@@ -67,6 +67,3 @@ python test.py
 - Use `.env` file for secrets (don’t commit it!)
 - JWT tokens must be passed in the WebSocket query string (`?token=<jwt>`)
 - Run `test.py` to verify Echo, Chat, and Notifications work.
-
-## 📜 License
-MIT License. Feel free to use and modify.
